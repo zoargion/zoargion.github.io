@@ -778,6 +778,7 @@ input:focus, textarea:focus {
     padding:10px 30px;
     text-decoration: none;
     text-transform: uppercase;
+    width: 300px;
 }
 .contact-btn:hover {
 	background: #888;
